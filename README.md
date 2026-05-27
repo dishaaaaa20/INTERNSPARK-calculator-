@@ -6,14 +6,14 @@ A simple interactive calculator built with vanilla HTML, CSS, and JavaScript. No
 
 ## Files
 calculator/
-├── index.html
-├── style.css
-├── script.js
+├── calc.html
+├── stylecalc.css
+├── calc.js
 └── README.md
 
 ## Getting Started
 
-No install needed. Just open `index.html` in any browser.
+No install needed. Just open `calc.html` in any browser.
 
 ```bash
 # Or serve it locally with any static server, e.g.
